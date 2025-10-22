@@ -1,0 +1,101 @@
+Data da Venda,ID do Produto,Nome do Produto,Categoria,Quantidade Vendida,Preço Unitário,Vendedor,Região,Total da Venda
+2024-01-01,4021,Tablet,Eletrônicos,6,4897.76,Diego,Norte,29386.56
+2024-01-02,6127,Monitor,Periféricos,2,4341.42,Felipe,Oeste,8682.84
+2024-01-03,7928,Mouse,Periféricos,12,4318.11,Diego,Leste,51817.31999999999
+2024-01-04,3961,HD Externo,Eletrônicos,12,1494.56,Bruno,Oeste,17934.72
+2024-01-05,3380,HD Externo,Eletrônicos,6,767.53,Eduarda,Oeste,4605.18
+2024-01-06,8845,Tablet,Acessórios,13,1170.93,Felipe,Oeste,15222.09
+2024-01-07,6535,Webcam,Eletrônicos,16,3703.5,Carla,Leste,59256.0
+2024-01-08,6316,Smartphone,Acessórios,12,3011.17,Carla,Centro,36134.04
+2024-01-09,2937,Smartphone,Eletrônicos,4,3790.84,Ana,Centro,15163.36
+2024-01-10,8819,Tablet,Eletrônicos,14,2414.45,Carla,Norte,33802.299999999996
+2024-01-11,5804,Fone de Ouvido,Eletrônicos,18,1494.98,Bruno,Norte,26909.64
+2024-01-12,1511,Smartphone,Eletrônicos,9,3750.78,Ana,Sul,33757.020000000004
+2024-01-13,8967,Fone de Ouvido,Acessórios,18,2165.18,Ana,Leste,38973.24
+2024-01-14,3563,Monitor,Acessórios,5,1507.57,Ana,Centro,7537.849999999999
+2024-01-15,9009,Smartphone,Acessórios,14,4450.93,Bruno,Leste,62313.020000000004
+2024-01-16,8822,Monitor,Acessórios,20,1254.42,Bruno,Norte,25088.4
+2024-01-17,5878,Teclado,Acessórios,9,544.47,Eduarda,Centro,4900.2300000000005
+2024-01-18,7770,Impressora,Periféricos,13,164.76,Diego,Norte,2141.88
+2024-01-19,6782,Fone de Ouvido,Eletrônicos,17,1671.43,Eduarda,Sul,28414.31
+2024-01-20,2825,Monitor,Eletrônicos,20,2958.93,Carla,Norte,59178.6
+2024-01-21,2750,Mouse,Eletrônicos,2,562.41,Diego,Oeste,1124.82
+2024-01-22,1218,Webcam,Periféricos,1,1495.83,Ana,Sul,1495.83
+2024-01-23,1936,Webcam,Periféricos,8,3479.98,Eduarda,Centro,27839.84
+2024-01-24,1646,HD Externo,Eletrônicos,1,2893.01,Eduarda,Leste,2893.01
+2024-01-25,7431,Teclado,Periféricos,3,818.35,Diego,Centro,2455.05
+2024-01-26,5949,Notebook,Periféricos,9,2379.62,Ana,Sul,21416.579999999998
+2024-01-27,9438,HD Externo,Periféricos,7,2864.3,Eduarda,Oeste,20050.100000000002
+2024-01-28,8726,Fone de Ouvido,Acessórios,16,936.99,Eduarda,Oeste,14991.84
+2024-01-29,9637,Impressora,Acessórios,1,2095.48,Carla,Leste,2095.48
+2024-01-30,4590,Webcam,Periféricos,4,1167.38,Eduarda,Norte,4669.52
+2024-01-31,6294,Impressora,Eletrônicos,20,4518.68,Felipe,Norte,90373.6
+2024-02-01,5707,Monitor,Acessórios,16,3921.57,Felipe,Centro,62745.12
+2024-02-02,3443,Monitor,Eletrônicos,11,970.42,Carla,Centro,10674.619999999999
+2024-02-03,2661,HD Externo,Periféricos,9,1379.35,Felipe,Centro,12414.15
+2024-02-04,6885,Smartphone,Eletrônicos,9,1367.92,Eduarda,Oeste,12311.28
+2024-02-05,8039,Webcam,Acessórios,19,622.76,Bruno,Leste,11832.44
+2024-02-06,9623,Monitor,Acessórios,7,2345.39,Diego,Oeste,16417.73
+2024-02-07,2483,Webcam,Periféricos,14,2154.96,Eduarda,Norte,30169.440000000002
+2024-02-08,6234,Impressora,Eletrônicos,6,988.79,Felipe,Oeste,5932.74
+2024-02-09,6991,Webcam,Acessórios,13,1259.12,Felipe,Centro,16368.559999999998
+2024-02-10,3321,Teclado,Eletrônicos,2,3834.16,Diego,Leste,7668.32
+2024-02-11,1003,Smartphone,Acessórios,8,2493.5,Eduarda,Leste,19948.0
+2024-02-12,4828,Notebook,Acessórios,6,2574.34,Bruno,Centro,15446.04
+2024-02-13,3596,Mouse,Periféricos,2,2720.32,Felipe,Sul,5440.64
+2024-02-14,4003,HD Externo,Periféricos,15,2909.26,Carla,Leste,43638.9
+2024-02-15,1761,Teclado,Eletrônicos,18,1552.95,Bruno,Norte,27953.100000000002
+2024-02-16,1709,Tablet,Periféricos,4,1077.44,Diego,Oeste,4309.76
+2024-02-17,8078,Monitor,Eletrônicos,2,3529.0,Eduarda,Sul,7058.0
+2024-02-18,2101,Tablet,Acessórios,2,4601.35,Ana,Leste,9202.7
+2024-02-19,5641,Tablet,Acessórios,13,3493.47,Felipe,Oeste,45415.11
+2024-02-20,2057,Webcam,Acessórios,5,53.12,Felipe,Sul,265.59999999999997
+2024-02-21,3261,Impressora,Eletrônicos,20,446.8,Eduarda,Norte,8936.0
+2024-02-22,1416,Impressora,Periféricos,10,4750.66,Eduarda,Sul,47506.6
+2024-02-23,5125,Fone de Ouvido,Acessórios,2,2810.28,Felipe,Leste,5620.56
+2024-02-24,8662,Mouse,Periféricos,13,4251.84,Ana,Centro,55273.92
+2024-02-25,4018,Smartphone,Periféricos,12,3757.72,Felipe,Centro,45092.64
+2024-02-26,5127,Notebook,Acessórios,19,516.84,Felipe,Leste,9819.960000000001
+2024-02-27,5063,Smartphone,Periféricos,17,3097.91,Carla,Centro,52664.47
+2024-02-28,1583,Notebook,Eletrônicos,9,3956.13,Carla,Leste,35605.17
+2024-02-29,2418,Mouse,Acessórios,4,4400.56,Felipe,Sul,17602.24
+2024-03-01,6262,Smartphone,Eletrônicos,2,2625.67,Eduarda,Norte,5251.34
+2024-03-02,4982,Teclado,Acessórios,11,1510.18,Eduarda,Sul,16611.98
+2024-03-03,2766,Impressora,Periféricos,11,4473.55,Carla,Norte,49209.05
+2024-03-04,3832,Teclado,Acessórios,20,2859.13,Felipe,Leste,57182.600000000006
+2024-03-05,2357,Tablet,Eletrônicos,16,310.21,Eduarda,Oeste,4963.36
+2024-03-06,8619,Smartphone,Periféricos,13,360.42,Eduarda,Leste,4685.46
+2024-03-07,4344,Monitor,Acessórios,3,2001.67,Bruno,Sul,6005.01
+2024-03-08,4829,Smartphone,Eletrônicos,4,532.04,Eduarda,Leste,2128.16
+2024-03-09,3085,HD Externo,Periféricos,6,4273.56,Bruno,Centro,25641.36
+2024-03-10,9131,Impressora,Periféricos,8,2620.5,Eduarda,Centro,20964.0
+2024-03-11,2149,HD Externo,Acessórios,20,1813.29,Carla,Leste,36265.8
+2024-03-12,9854,Smartphone,Eletrônicos,17,4013.28,Felipe,Sul,68225.76000000001
+2024-03-13,5716,Fone de Ouvido,Acessórios,14,2106.91,Eduarda,Leste,29496.739999999998
+2024-03-14,5075,Teclado,Periféricos,19,4732.04,Felipe,Leste,89908.76
+2024-03-15,4409,Notebook,Eletrônicos,17,2833.3,Ana,Oeste,48166.100000000006
+2024-03-16,2322,Impressora,Periféricos,5,3497.54,Eduarda,Sul,17487.7
+2024-03-17,2222,Impressora,Acessórios,13,4711.92,Carla,Centro,61254.96
+2024-03-18,6715,HD Externo,Periféricos,7,1571.47,Carla,Sul,11000.29
+2024-03-19,1818,HD Externo,Acessórios,18,3206.44,Bruno,Oeste,57715.92
+2024-03-20,4090,Impressora,Acessórios,1,2243.41,Carla,Sul,2243.41
+2024-03-21,6715,Notebook,Periféricos,20,580.58,Eduarda,Centro,11611.6
+2024-03-22,6361,Fone de Ouvido,Acessórios,14,470.6,Ana,Leste,6588.400000000001
+2024-03-23,8414,HD Externo,Eletrônicos,19,2752.61,Eduarda,Centro,52299.590000000004
+2024-03-24,6021,Webcam,Eletrônicos,14,970.02,Felipe,Centro,13580.279999999999
+2024-03-25,2576,Teclado,Acessórios,15,4499.81,Bruno,Leste,67497.15000000001
+2024-03-26,1414,Teclado,Acessórios,13,748.77,Felipe,Sul,9734.01
+2024-03-27,7150,Tablet,Periféricos,8,1201.19,Carla,Norte,9609.52
+2024-03-28,2235,Webcam,Eletrônicos,5,3737.31,Felipe,Oeste,18686.55
+2024-03-29,9238,Mouse,Periféricos,12,3711.63,Carla,Centro,44539.56
+2024-03-30,6373,Monitor,Eletrônicos,9,3941.55,Ana,Sul,35473.950000000004
+2024-03-31,5024,Monitor,Acessórios,9,4974.24,Diego,Norte,44768.159999999996
+2024-04-01,4015,Tablet,Acessórios,18,2478.0,Carla,Norte,44604.0
+2024-04-02,1445,Impressora,Periféricos,17,2326.12,Felipe,Centro,39544.04
+2024-04-03,7566,HD Externo,Acessórios,3,2401.8,Carla,Oeste,7205.400000000001
+2024-04-04,6241,Smartphone,Periféricos,15,3715.9,Carla,Centro,55738.5
+2024-04-05,3710,Mouse,Eletrônicos,15,2693.03,Felipe,Oeste,40395.450000000004
+2024-04-06,2244,Notebook,Eletrônicos,13,4936.76,Felipe,Sul,64177.880000000005
+2024-04-07,3302,Teclado,Periféricos,13,4193.72,Felipe,Sul,54518.36
+2024-04-08,2754,Mouse,Eletrônicos,6,3772.45,Eduarda,Oeste,22634.699999999997
+2024-04-09,8954,Webcam,Eletrônicos,4,756.75,Carla,Norte,3027.0
